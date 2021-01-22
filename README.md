@@ -6,7 +6,6 @@ This repository is a collection of code that supports my study of Jaccard's meas
 
 **Links:**
 
-+ https://archive.ics.uci.edu/ml/datasets/covertype
 + https://scikit-learn.org/stable/modules/generated/sklearn.metrics.jaccard_score.html
 
 **Contents**
